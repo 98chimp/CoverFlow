@@ -14,6 +14,20 @@
 		EB2BEA151AC61B3700FE7E07 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA141AC61B3700FE7E07 /* Images.xcassets */; };
 		EB2BEA181AC61B3700FE7E07 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA161AC61B3700FE7E07 /* LaunchScreen.xib */; };
 		EB2BEA241AC61B3700FE7E07 /* CoverFlowTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB2BEA231AC61B3700FE7E07 /* CoverFlowTests.m */; };
+		EB2BEA2F1AC61C6400FE7E07 /* CustomCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB2BEA2E1AC61C6400FE7E07 /* CustomCollectionViewController.m */; };
+		EB2BEA411AC6204000FE7E07 /* IMG01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA331AC6204000FE7E07 /* IMG01.JPG */; };
+		EB2BEA421AC6204000FE7E07 /* IMG02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA341AC6204000FE7E07 /* IMG02.JPG */; };
+		EB2BEA431AC6204000FE7E07 /* IMG03.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA351AC6204000FE7E07 /* IMG03.JPG */; };
+		EB2BEA441AC6204000FE7E07 /* IMG04.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA361AC6204000FE7E07 /* IMG04.JPG */; };
+		EB2BEA451AC6204000FE7E07 /* IMG05.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA371AC6204000FE7E07 /* IMG05.JPG */; };
+		EB2BEA461AC6204100FE7E07 /* IMG06.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA381AC6204000FE7E07 /* IMG06.JPG */; };
+		EB2BEA471AC6204100FE7E07 /* IMG07.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA391AC6204000FE7E07 /* IMG07.JPG */; };
+		EB2BEA481AC6204100FE7E07 /* IMG08.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA3A1AC6204000FE7E07 /* IMG08.JPG */; };
+		EB2BEA491AC6204100FE7E07 /* IMG09.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA3B1AC6204000FE7E07 /* IMG09.JPG */; };
+		EB2BEA4A1AC6204100FE7E07 /* IMG10.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EB2BEA3C1AC6204000FE7E07 /* IMG10.JPG */; };
+		EB2BEA4B1AC6204100FE7E07 /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = EB2BEA3E1AC6204000FE7E07 /* Photo.m */; };
+		EB2BEA4C1AC6204100FE7E07 /* PhotoCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EB2BEA401AC6204000FE7E07 /* PhotoCollectionViewCell.m */; };
+		EB2BEA501AC62C9200FE7E07 /* CoverFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = EB2BEA4F1AC62C9200FE7E07 /* CoverFlowLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +54,24 @@
 		EB2BEA1D1AC61B3700FE7E07 /* CoverFlowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoverFlowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2BEA221AC61B3700FE7E07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB2BEA231AC61B3700FE7E07 /* CoverFlowTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoverFlowTests.m; sourceTree = "<group>"; };
+		EB2BEA2D1AC61C6400FE7E07 /* CustomCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCollectionViewController.h; sourceTree = "<group>"; };
+		EB2BEA2E1AC61C6400FE7E07 /* CustomCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCollectionViewController.m; sourceTree = "<group>"; };
+		EB2BEA331AC6204000FE7E07 /* IMG01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG01.JPG; sourceTree = "<group>"; };
+		EB2BEA341AC6204000FE7E07 /* IMG02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG02.JPG; sourceTree = "<group>"; };
+		EB2BEA351AC6204000FE7E07 /* IMG03.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG03.JPG; sourceTree = "<group>"; };
+		EB2BEA361AC6204000FE7E07 /* IMG04.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG04.JPG; sourceTree = "<group>"; };
+		EB2BEA371AC6204000FE7E07 /* IMG05.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG05.JPG; sourceTree = "<group>"; };
+		EB2BEA381AC6204000FE7E07 /* IMG06.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG06.JPG; sourceTree = "<group>"; };
+		EB2BEA391AC6204000FE7E07 /* IMG07.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG07.JPG; sourceTree = "<group>"; };
+		EB2BEA3A1AC6204000FE7E07 /* IMG08.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG08.JPG; sourceTree = "<group>"; };
+		EB2BEA3B1AC6204000FE7E07 /* IMG09.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG09.JPG; sourceTree = "<group>"; };
+		EB2BEA3C1AC6204000FE7E07 /* IMG10.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG10.JPG; sourceTree = "<group>"; };
+		EB2BEA3D1AC6204000FE7E07 /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
+		EB2BEA3E1AC6204000FE7E07 /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
+		EB2BEA3F1AC6204000FE7E07 /* PhotoCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoCollectionViewCell.h; sourceTree = "<group>"; };
+		EB2BEA401AC6204000FE7E07 /* PhotoCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoCollectionViewCell.m; sourceTree = "<group>"; };
+		EB2BEA4E1AC62C9200FE7E07 /* CoverFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoverFlowLayout.h; sourceTree = "<group>"; };
+		EB2BEA4F1AC62C9200FE7E07 /* CoverFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoverFlowLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,10 +113,19 @@
 		EB2BEA061AC61B3700FE7E07 /* CoverFlow */ = {
 			isa = PBXGroup;
 			children = (
+				EB2BEA4D1AC6205000FE7E07 /* images */,
 				EB2BEA0B1AC61B3700FE7E07 /* AppDelegate.h */,
 				EB2BEA0C1AC61B3700FE7E07 /* AppDelegate.m */,
 				EB2BEA0E1AC61B3700FE7E07 /* ViewController.h */,
 				EB2BEA0F1AC61B3700FE7E07 /* ViewController.m */,
+				EB2BEA2D1AC61C6400FE7E07 /* CustomCollectionViewController.h */,
+				EB2BEA2E1AC61C6400FE7E07 /* CustomCollectionViewController.m */,
+				EB2BEA3D1AC6204000FE7E07 /* Photo.h */,
+				EB2BEA3E1AC6204000FE7E07 /* Photo.m */,
+				EB2BEA3F1AC6204000FE7E07 /* PhotoCollectionViewCell.h */,
+				EB2BEA401AC6204000FE7E07 /* PhotoCollectionViewCell.m */,
+				EB2BEA4E1AC62C9200FE7E07 /* CoverFlowLayout.h */,
+				EB2BEA4F1AC62C9200FE7E07 /* CoverFlowLayout.m */,
 				EB2BEA111AC61B3700FE7E07 /* Main.storyboard */,
 				EB2BEA141AC61B3700FE7E07 /* Images.xcassets */,
 				EB2BEA161AC61B3700FE7E07 /* LaunchScreen.xib */,
@@ -117,6 +158,23 @@
 				EB2BEA221AC61B3700FE7E07 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EB2BEA4D1AC6205000FE7E07 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				EB2BEA331AC6204000FE7E07 /* IMG01.JPG */,
+				EB2BEA341AC6204000FE7E07 /* IMG02.JPG */,
+				EB2BEA351AC6204000FE7E07 /* IMG03.JPG */,
+				EB2BEA361AC6204000FE7E07 /* IMG04.JPG */,
+				EB2BEA371AC6204000FE7E07 /* IMG05.JPG */,
+				EB2BEA381AC6204000FE7E07 /* IMG06.JPG */,
+				EB2BEA391AC6204000FE7E07 /* IMG07.JPG */,
+				EB2BEA3A1AC6204000FE7E07 /* IMG08.JPG */,
+				EB2BEA3B1AC6204000FE7E07 /* IMG09.JPG */,
+				EB2BEA3C1AC6204000FE7E07 /* IMG10.JPG */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,7 +258,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB2BEA131AC61B3700FE7E07 /* Main.storyboard in Resources */,
+				EB2BEA441AC6204000FE7E07 /* IMG04.JPG in Resources */,
+				EB2BEA481AC6204100FE7E07 /* IMG08.JPG in Resources */,
+				EB2BEA4A1AC6204100FE7E07 /* IMG10.JPG in Resources */,
+				EB2BEA471AC6204100FE7E07 /* IMG07.JPG in Resources */,
+				EB2BEA451AC6204000FE7E07 /* IMG05.JPG in Resources */,
 				EB2BEA181AC61B3700FE7E07 /* LaunchScreen.xib in Resources */,
+				EB2BEA461AC6204100FE7E07 /* IMG06.JPG in Resources */,
+				EB2BEA421AC6204000FE7E07 /* IMG02.JPG in Resources */,
+				EB2BEA411AC6204000FE7E07 /* IMG01.JPG in Resources */,
+				EB2BEA431AC6204000FE7E07 /* IMG03.JPG in Resources */,
+				EB2BEA491AC6204100FE7E07 /* IMG09.JPG in Resources */,
 				EB2BEA151AC61B3700FE7E07 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,8 +287,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB2BEA4C1AC6204100FE7E07 /* PhotoCollectionViewCell.m in Sources */,
+				EB2BEA501AC62C9200FE7E07 /* CoverFlowLayout.m in Sources */,
+				EB2BEA4B1AC6204100FE7E07 /* Photo.m in Sources */,
 				EB2BEA101AC61B3700FE7E07 /* ViewController.m in Sources */,
 				EB2BEA0D1AC61B3700FE7E07 /* AppDelegate.m in Sources */,
+				EB2BEA2F1AC61C6400FE7E07 /* CustomCollectionViewController.m in Sources */,
 				EB2BEA0A1AC61B3700FE7E07 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +486,7 @@
 				EB2BEA291AC61B3700FE7E07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EB2BEA2A1AC61B3700FE7E07 /* Build configuration list for PBXNativeTarget "CoverFlowTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +495,7 @@
 				EB2BEA2C1AC61B3700FE7E07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
