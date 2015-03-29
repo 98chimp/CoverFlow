@@ -70,7 +70,7 @@ static NSString * const reuseIdentifier = @"Photo";
                                           subject:@"Nature"
                                          location:@"Outside"];
     
-    self.allPhotos = @[photo01, photo02, photo03, photo04, photo05, photo06, photo07, photo08, photo09, photo10];
+    self.allPhotos = @[photo01, photo02, photo03, photo04, photo05, photo06, photo07, photo08, photo09, photo10, photo01, photo02, photo03, photo04, photo05, photo06, photo07, photo08, photo09, photo10];
     
     NSArray *artsyPhotos = [self.allPhotos filteredArrayUsingPredicate:[self predicateWithSubject:@"Artsy"]];
     NSArray *objectPhotos = [self.allPhotos filteredArrayUsingPredicate:[self predicateWithSubject:@"Objects"]];

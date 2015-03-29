@@ -113,7 +113,6 @@
 		EB2BEA061AC61B3700FE7E07 /* CoverFlow */ = {
 			isa = PBXGroup;
 			children = (
-				EB2BEA4D1AC6205000FE7E07 /* images */,
 				EB2BEA0B1AC61B3700FE7E07 /* AppDelegate.h */,
 				EB2BEA0C1AC61B3700FE7E07 /* AppDelegate.m */,
 				EB2BEA0E1AC61B3700FE7E07 /* ViewController.h */,
@@ -127,6 +126,7 @@
 				EB2BEA4E1AC62C9200FE7E07 /* CoverFlowLayout.h */,
 				EB2BEA4F1AC62C9200FE7E07 /* CoverFlowLayout.m */,
 				EB2BEA111AC61B3700FE7E07 /* Main.storyboard */,
+				EB2BEA4D1AC6205000FE7E07 /* images */,
 				EB2BEA141AC61B3700FE7E07 /* Images.xcassets */,
 				EB2BEA161AC61B3700FE7E07 /* LaunchScreen.xib */,
 				EB2BEA071AC61B3700FE7E07 /* Supporting Files */,

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E433E3FD-6C33-49A7-8FF4-7AB16B6486B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoverFlow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B4A61B32052422E29786D3BBF1936EBFED9EDB0</key>
+		<string>https://github.com/98chimp/CoverFlow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoverFlow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B4A61B32052422E29786D3BBF1936EBFED9EDB0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/98chimp/CoverFlow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B4A61B32052422E29786D3BBF1936EBFED9EDB0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B4A61B32052422E29786D3BBF1936EBFED9EDB0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoverFlow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
