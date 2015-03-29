@@ -10,8 +10,8 @@
 
 @implementation CoverFlowLayout
 
-static const CGFloat ACTIVE_DISTANCE = 200.0f;
-static const CGFloat ZOOM_FACTOR = 0.3f;
+//static const CGFloat ACTIVE_DISTANCE = 200.0f;
+static const CGFloat ZOOM_FACTOR = 0.25f;
 
 
 -(void)prepareLayout
@@ -76,8 +76,8 @@ static const CGFloat ZOOM_FACTOR = 0.3f;
 
 -(NSArray *)layoutAttributesForElementsInRect:(CGRect)rect
 {
-    NSLog(@"Returning attributes for elements in {(%f, %f),(%f, %f)}",
-          rect.origin.x, rect.origin.y, rect.size.width, rect.size.height);
+//    NSLog(@"Returning attributes for elements in {(%f, %f),(%f, %f)}",
+//          rect.origin.x, rect.origin.y, rect.size.width, rect.size.height);
     NSArray* attributes = [super layoutAttributesForElementsInRect:rect];
     
     CGRect visibleRect;
